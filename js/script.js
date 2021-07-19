@@ -22,4 +22,4 @@ for (let i=1; i<=6; i++) {
     }
 }
 
-console.log(pet_name + " has " + happiness + " happiness and " + energy + " energy.");
+console.log("That's enough for one day! " + pet_name + " has " + happiness + " happiness and " + energy + " energy.");
